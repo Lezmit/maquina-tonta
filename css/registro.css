@@ -1,0 +1,25 @@
+* {
+  font-family: 'Prompt', sans-serif;
+  text-align: center;
+}
+.circle{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  border: 1px solid white;
+  margin:10px; 
+  text-align: center;
+}
+#bg-1{
+  background-color: #f44336 ;
+}
+#bg-2{
+  background-color: #2196f3 ;
+}
+#bg-3{
+  background-color: #00796b;
+}
+form{
+  margin-top:30px;
+}
